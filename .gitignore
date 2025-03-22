@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+ffmpeg.exe
+ffmpeg.zip
+yt-dlp.exe
+/build
