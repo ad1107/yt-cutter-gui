@@ -1,13 +1,13 @@
-# Youtube Cutter GUI (yt-cutter-gui)
+# yt-dlp Cutter GUI (yt-cutter-gui)
 
-Automatically download and cut video or audio from YouTube using yt-dlp and ffmpeg - now with Tkinter GUI!
+Automatically download and cut video or audio from all kinds of supported sites (YouTube, Twitter, SoundCloud, Facebook,...) using yt-dlp and ffmpeg - now with Tkinter GUI!
 
 ![Screenshot](demo.png)
 
 ## Features
 
-This project downloads a YouTube media and allows you to either save the entire video/audio or cut out a specific segment using a fully featured GUI:
-- **yt-dlp** for downloading YouTube media.
+This project downloads and allows you to either save the entire video/audio or cut out a specific segment using a fully featured GUI:
+- **yt-dlp** for downloading media.
 - **ffmpeg** for processing media files.
 - **tkinter** for the GUI.
 - **url** for HTTP downloads.
